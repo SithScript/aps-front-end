@@ -132,7 +132,7 @@ Listas aninhadas - ul, ol, dl com seus respectivos itens
 Tabelas com mesclagem -	rowspan para células que ocupam múltiplas linhas
 Formulários -	fieldset, diferentes tipos de input
 Atributos de input - placeholder, size, maxlength
-Imagens locais - Caminho relativo ../img/nome.png
+Imagens locais - ``Caminho relativo ../img/nome.png``
 
 📝 Observações acadêmicas
 Este projeto foi desenvolvido como parte da APS (Atividade Prática Supervisionada) seguindo as diretrizes do professor:
