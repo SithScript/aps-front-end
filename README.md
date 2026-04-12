@@ -122,20 +122,6 @@ Método 2 - GitHub Pages
 Após fazer o upload para o GitHub
 Ative o GitHub Pages nas configurações do repositório
 
-📚 Conceitos praticados
-
-Conceito e aplicação no projeto
-
-Links relativos	- Navegação entre páginas com <a href="pagina.html">
-Hierarquia de títulos -	<h1> ao <h2> para organização semântica
-Listas aninhadas - ul, ol, dl com seus respectivos itens
-Tabelas com mesclagem -	rowspan para células que ocupam múltiplas linhas
-Formulários -	fieldset, diferentes tipos de input
-Atributos de input - placeholder, size, maxlength
-Imagens locais - ``Caminho relativo ../img/nome.png``
-
-
-
 Este README destaca:
 - **Aspectos técnicos** que você aprendeu (tags, atributos, estruturas)
 - **Organização do projeto** (mostra que você sabe estruturar pastas)
