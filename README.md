@@ -134,18 +134,7 @@ Formulários -	fieldset, diferentes tipos de input
 Atributos de input - placeholder, size, maxlength
 Imagens locais - ``Caminho relativo ../img/nome.png``
 
-📝 Observações acadêmicas
-Este projeto foi desenvolvido como parte da APS (Atividade Prática Supervisionada) seguindo as diretrizes do professor:
 
-✅ Apenas HTML (sem CSS ou JavaScript)
-
-✅ Navegação funcional entre todas as páginas
-
-✅ Conteúdo fictício para demonstração
-
-✅ Estrutura semântica adequada
-
-⭐ Projeto acadêmico para fins de aprendizado de HTML5
 
 Este README destaca:
 - **Aspectos técnicos** que você aprendeu (tags, atributos, estruturas)
