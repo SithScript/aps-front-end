@@ -128,4 +128,3 @@ Este README destaca:
 - **Contexto acadêmico** (APS, 3º período, Engenharia de Software)
 - **Transparência** (deixa claro que foi propositalmente sem CSS)
 
-Quer que eu ajuste algo? Ou pode mandar o próximo código!
